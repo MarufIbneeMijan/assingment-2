@@ -561,6 +561,8 @@ header,main{
 }
 /* meet-our-team  */
 .meet-our-team{
+    justify-content: center;
+    justify-items: center;
     grid-template-columns: repeat(1,1fr);
    
 }
