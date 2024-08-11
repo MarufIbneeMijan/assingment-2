@@ -72,6 +72,17 @@
     font-size: 4rem;
     color:rgb(255, 255, 255); 
 }
+.shape{
+    font-family: miama;
+    display: inline;
+    font-weight: 400;
+    font-size: 4.8rem;
+}
+.healthy{
+    display: block;
+    margin-top: -70px;
+}
+
 .banner-para{
     color: rgba(255, 255, 255, 0.5);
     font-size: 1rem;
@@ -823,9 +834,7 @@ header,main{
     /* header and nav responsive  */
     /* banner responsive  */
     .banner{
-        flex-direction: column;
-       
-        
+        flex-direction: column;   
     }
     
 .banner-heading{
@@ -846,6 +855,14 @@ header,main{
     margin: 0 auto;
     
 }
+.shape{
+    font-size: 3rem;
+}
+.healthy{
+    display:block;
+    margin-top: -70px;
+}
+
 .banner-card2{
     gap: 2px;
     margin-top: 10%;
