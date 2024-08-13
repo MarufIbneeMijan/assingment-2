@@ -93,6 +93,7 @@
 .banner{
     display: grid;
     grid-template-columns: repeat(2,1fr);
+    background: linear-gradient(180.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 100%);
  
 }
 .italic{
@@ -123,7 +124,7 @@ background: black;
 
 }
 .banner-container2{
-    background-color:linear-gradient(90.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 100%);
+
     background:  url("../images/Images\ 2.png");
     background-repeat: no-repeat;
     background-position: bottom center;
